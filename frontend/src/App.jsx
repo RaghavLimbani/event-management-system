@@ -6,8 +6,8 @@ import {
   BrowserRouter,
 } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import { Register } from "./components/Register";
-import { Login } from "./components/Login";
+import Register from "./components/Register";
+import Login from "./components/Login";
 import { HeroSection } from "./components/HeroFooter";
 
 function App() {
